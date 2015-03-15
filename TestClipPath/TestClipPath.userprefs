@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="TestClipPath\TestClipPath.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.169.254.240.102:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestClipPath\ClippedCanvas.cs">
+    <Files>
+      <File FileName="TestClipPath\MainActivity.cs" Line="17" Column="17" />
+      <File FileName="TestClipPath\ClippedCanvas.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
